@@ -3,5 +3,5 @@
 ## I am a Fullstack Developer
 
 - 🔭 I’m currently working @ 99x 
-- 🌱 I’m currently many things 
+- 🌱 I’m currently learning many things 
 
