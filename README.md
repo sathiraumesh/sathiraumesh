@@ -2,7 +2,7 @@
 
 ## I am a Fullstack Developer
 
-- 🔭 I’m currently working @ 99x 
+- 🔭 I’m currently working @ [99x](https://99x.io/?gclid=Cj0KCQjwv5uKBhD6ARIsAGv9a-z_A2HFvTx50PhITEgkshx7EoGuPIL51DMDUQzsIBfvpaPho5Ts2t8aAmIlEALw_wcB) 
 - 🌱 I’m currently learning many things 
 
 ## Connect:
